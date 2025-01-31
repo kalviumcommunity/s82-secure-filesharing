@@ -1,0 +1,19 @@
+{
+  "name": "s82_secure-_file_sharing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S82_secure-_file_sharing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S82_secure-_file_sharing/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S82_secure-_file_sharing#readme"
+}
