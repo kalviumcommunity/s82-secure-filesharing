@@ -8,9 +8,9 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-let dbConnected = false; // Track DB connection status
+let dbConnected = false;
 
-// Connect to MongoDB
+
 connectDB()
     .then(() => { dbConnected = true; })
     .catch(() => { dbConnected = false; });
