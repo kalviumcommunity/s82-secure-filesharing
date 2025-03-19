@@ -10,9 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "build": "^0.1.4",
+    "axios": "^1.8.3",
+    "js-yaml": "^4.1.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "uglify-js": "^3.19.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
